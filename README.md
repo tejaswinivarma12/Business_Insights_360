@@ -8,6 +8,7 @@ User guide and navigation panel for smooth access to all views
 
 # 2. Finance View
 P&L statements by customer, product, or region
+
 Net Sales, Gross Margin %, and Net Profit % trends
 Top/bottom products and customers
 
