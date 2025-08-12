@@ -33,7 +33,7 @@ Sub-zone performance and market share trend analysis
 # Tech Stack
 Visualization Tool: Microsoft Power BI
 Data Transformation: Power Query, DAX, Star and Snowflake schema
-Data Source: (Add yours – e.g., Excel, SQL Server)
+Data Source: Excel, SQL Server
 Metrics Tracked: Net Sales, Gross Margin %, Net Profit %, Forecast Accuracy %, Market Share %
 
 # Business Impact
